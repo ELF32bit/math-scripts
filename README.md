@@ -1,6 +1,6 @@
 # Math scripts
  
-## Origami Parabolic Hyperboloid
+## Origami Hyperbolic Paraboloid
 
 ![image caption](origami-hypar/origami-hypar.png)
 
