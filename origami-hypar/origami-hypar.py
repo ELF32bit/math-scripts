@@ -140,7 +140,7 @@ def write_split_obj():
 			p4 = pcurve_vertices[(i2 + 1) % n][i1 + 1]
 			output_file.write(f"f {p1} {p2} {p3} {p4}\n")
 
-write_split_obj()
+write_obj()
 
 # closing output file
 output_file.close()

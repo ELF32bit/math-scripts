@@ -14,3 +14,6 @@
 ## Frame in Frame (EisenScript)
 ![image caption](frame-in-frame/frame_in_frame-1.png)
 ![image caption](frame-in-frame/frame_in_frame-2.png)
+
+## Wings Mechanism
+![image caption](wings-mechanism/wings-mechanism.png)
